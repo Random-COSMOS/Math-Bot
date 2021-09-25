@@ -1,14 +1,12 @@
-aiohttp @ file:///D:/bld/aiohttp_1623682523147/work
+aiohttp==3.7.4.post0
 async-timeout==3.0.1
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
+attrs==21.2.0
 certifi==2021.5.30
-chardet @ file:///D:/bld/chardet_1610093673558/work
-click @ file:///D:/bld/click_1621503904640/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
-discord.py @ file:///home/conda/feedstock_root/build_artifacts/discord.py_1623518917557/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
-multidict @ file:///D:/bld/multidict_1610319160902/work
-python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1627149776321/work
-typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
+chardet==4.0.0
+discord.py==1.7.3
+idna==3.2
+multidict==5.1.0
+python-dotenv==0.19.0
+typing-extensions==3.10.0.2
 wincertstore==0.2
-yarl @ file:///D:/bld/yarl_1625233126428/work
+yarl==1.6.3
